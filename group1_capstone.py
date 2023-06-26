@@ -65,4 +65,7 @@ class DataProcessor:
 
     def describe_numerical_columns(self, df):
         return df.describe(datetime_is_numeric=True, include="all")
+
+    def describe(self, df):
+        return df.describe()
     
