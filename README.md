@@ -17,5 +17,6 @@ The dataset has a total of 180,627 records and 60 usable features. The expansive
 ## Business Questions / Key Focus
 1. To provide easier home options to people
 2. What features to focus on while determining the price of the property
-3. 3. What influences the property rate
-Developing a machine learning approach to real estate evaluation can provide valuable insights and streamline the process of finding suitable homes for individuals. By considering the features that impact property prices and understanding the factors that influence property rates, the model can assist in providing accurate property valuations and helping people make informed decisions when buying or selling real estate
+3. What influences the property rate
+   
+Developing a machine-learning approach to real estate evaluation can provide valuable insights and streamline the process of finding suitable homes for individuals. By considering the features that impact property prices and understanding the factors that influence property rates, the model can assist in providing accurate property valuations and helping people make informed decisions when buying or selling real estate
